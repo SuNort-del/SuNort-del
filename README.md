@@ -2,7 +2,7 @@
 
 ### `INITIALIZING DEVELOPER.exe`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090914,50:6C3BFF,100:00D9FF&height=180&section=header&text=NEON%20SHADOW&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090914,50:6C3BFF,100:00D9FF&height=180&section=header&text=%Su20NortW&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
 ** Beginner Developer |  Anime & Cyberpunk Enthusiast**
 
