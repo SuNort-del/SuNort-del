@@ -16,46 +16,43 @@
 
 ---
 
-## 🗡️ `ABOUT_ME`
 
-```js
-const developer = {
-  alias: "Neon Shadow",
-  level: "Beginner",
-  interests: ["Programming", "Anime", "Cyberpunk"],
-  currentlyLearning: ["Git", "GitHub", "Programming"],
-  mission: "Build something extraordinary"
-};
-```
+<h1 align="center">Olá! 👋 Eu sou o Paulo Vinicius</h1>
 
-- 🌱 Learning something new every day.
-- 💡 Turning ideas into projects.
-- 🎮 Inspired by anime, games and futuristic worlds.
-- 🚀 Improving one commit at a time.
+<p align="center">
+  Estudante de programação 💻
+</p>
 
-## ⚡ `TECH_STACK`
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-11111B?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-11111B?style=for-the-badge&logo=css&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-11111B?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Git](https://img.shields.io/badge/Git-11111B?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-11111B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+### 👨‍💻 Sobre mim
 
-## 📊 `SYSTEM_STATS`
+- 🎓 Estudante de programação
+- 🌱 Aprendendo lógica de programação e desenvolvimento web
+- 💻 Praticando C, HTML e CSS
+- 🚀 Buscando evoluir cada vez mais
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuNort-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090914)
+### 🛠️ Tecnologias
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuNort-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=090914)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-## 🌃 `MY_PROJECTS`
+### 📊 Estatísticas do GitHub
 
-> Projects loading... new missions coming soon.
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
-- 🔹 **Project 01** — My first coding project.
-- 🔹 **Project 02** — Something I'm building.
-- 🔹 **Project 03** — Future experiment.
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
-## 📨 `CONNECT_WITH_ME`
+---
+
+<p align="center">
+  Obrigado por visitar meu perfil! 🚀
+</p>
+
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20projects-7B61FF?style=for-the-badge&logo=github)](https://github.com/SEU-USUARIO)
 
