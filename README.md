@@ -43,9 +43,9 @@ const developer = {
 
 ## 📊 `SYSTEM_STATS`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090914)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SuNort-del&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090914)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=090914)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SuNort-del&layout=compact&theme=tokyonight&hide_border=true&bg_color=090914)
 
 ## 🌃 `MY_PROJECTS`
 
