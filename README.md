@@ -1,12 +1,10 @@
 <div align="center">
 
-# 🌌 WELCOME TO MY DIGITAL WORLD
-
 ### `INITIALIZING DEVELOPER.exe`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090914,50:6C3BFF,100:00D9FF&height=180&section=header&text=NEON%20SHADOW&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
 
-**💻 Beginner Developer | 🌌 Anime & Cyberpunk Enthusiast**
+** Beginner Developer |  Anime & Cyberpunk Enthusiast**
 
 *“Every expert was once a beginner.”*
 
@@ -32,7 +30,7 @@
 - 💻 Praticando C, HTML e CSS
 - 🚀 Buscando evoluir cada vez mais
 
-### 🛠️ Tecnologias
+###  Tecnologias
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -41,7 +39,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 ![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
 
@@ -50,7 +48,7 @@
 ---
 
 <p align="center">
-  Obrigado por visitar meu perfil! 🚀
+  Obrigado por visitar meu perfil! 
 </p>
 
 
